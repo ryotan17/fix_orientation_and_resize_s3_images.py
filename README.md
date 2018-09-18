@@ -1,0 +1,1 @@
+# fix_orientation_and_resize_s3_images.py
